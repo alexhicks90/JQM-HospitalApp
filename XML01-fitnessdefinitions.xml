@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fitnessInfo last-updated="2016-10-03" page-url="https://medlineplus.gov/characterizations/fitnesscharacterizations.html" title="Fitness">
+<label-group reference="National Heart, Lung, and Blood Institute" reference-url="http://www.nhlbi.nih.gov/health/health-topics/topics/phys/">
+	<label>Activity Count</label>
+	<characterization>Physical activity is any body movement that works your muscles and requires more energy than resting. Walking, running, dancing, swimming, yoga, and gardening are a few examples of physical activity.</characterization>
+  <symbol>_css/images/activity.png</symbol>
+</label-group>
+
+<label-group reference="National Heart, Lung, and Blood Institute" reference-url="http://www.nhlbi.nih.gov/health/health-topics/topics/phys/types.html">
+	<label>Aerobic Exercise</label>
+	<characterization>Aerobic exercise is activity that moves your large muscles, such as those in your arms and legs. It makes you breathe harder and your heart beat faster. Examples include running, swimming, walking, and biking. Over time, regular aerobic activity makes your heart and lungs stronger and able to work better.</characterization>
+  <symbol>_css/images/aerobic.png</symbol>
+</label-group>
+
+<label-group reference="NIH MedlinePlus" reference-url="">
+	<label>Basal Metabolic Rate</label>
+	<characterization>Basal metabolic rate is the measure of the energy necessary for maintaining basic functions, such as breathing, heart rate, and digestion.</characterization>
+  <symbol>_css/images/basal.png</symbol>
+</label-group>
+
+<label-group reference="National Heart, Lung, and Blood Institute" reference-url="http://www.nhlbi.nih.gov/health/public/heart/obesity/lose_wt/risk.htm">
+	<label>Body Mass Index</label>
+	<characterization>Body Mass Index (BMI) is an estimate of your body fat. It is calculated from your height and weight. It can tell you whether you are underweight, normal, overweight, or obese. It can help you gauge your risk for diseases that can occur with more body fat.</characterization>
+  <symbol>_css/images/bmi.png</symbol>
+</label-group>
+
+<label-group reference="National Heart, Lung, and Blood Institute" reference-url="http://www.nhlbi.nih.gov/files/docs/public/heart/phy_active.pdf">
+	<label>Cool Down</label>
+	<characterization>Your physical activity session should end by gradually slowing down. You can also cool down by changing to a less vigorous activity, such as moving from jogging to walking. This process allows your body to relax gradually. A cool down can last 5 minutes or more.</characterization>
+  <symbol>_css/images/cooldown.png</symbol>
+</label-group>
+
+<label-group reference="National Institute of Diabetes and Digestive and Kidney Diseases" reference-url="http://win.niddk.nih.gov/publications/glossary.htm#C">
+	<label>Energy Balance</label>
+	<characterization>The balance between calories you get from eating and drinking and those you use up through physical activity and body processes like breathing, digesting food, and, in children, growing.</characterization>
+  <symbol>_css/images/energybalance.png</symbol>
+</label-group>
+
+<label-group reference="National Heart, Lung, and Blood Institute" reference-url="http://www.nhlbi.nih.gov/health/public/heart/obesity/wecan/healthy-weight-basics/balance.htm">
+	<label>Energy Consumed</label>
+	<characterization>Energy is another word for calories. What you eat and drink is "energy in." What you burn through physical activity is "energy out."</characterization>
+  <symbol>_css/images/energyconsumed.png</symbol>
+</label-group>
+
+<label-group reference="National Heart, Lung, and Blood Institute" reference-url="http://www.nhlbi.nih.gov/files/docs/public/heart/phy_active.pdf">
+	<label>Flexibility (Training)</label>
+	<characterization>Flexibility training is exercise that stretches and lengthens your muscles. It can help improve your joint flexibility and keep your muscles limber. This can help prevent injuries. Some examples are yoga, tai chi, and pilates.</characterization>
+  <symbol>_css/images/flexibility.png</symbol>
+</label-group>
+</fitnessInfo>

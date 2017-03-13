@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<!-- Alex Hicks - 991 414 949 -->
+<html>
+<head>
+	<title>Final Project - byrnedar, hicksal, skakic</title>
+	<meta charset="utf-8" />
+	
+	<link rel="stylesheet" href="_css/jquery.mobile.css"/>
+	<link rel="stylesheet" href="_css/hicksal.css"/>
+	<link rel="stylesheet" href="_css/main.css"/>
+	
+	<script src="_js/jquery.js"></script>
+	<script src="_js/jquery.mobile.js"></script>		
+	<script src="_js/script.js"></script>
+	<script type="text/javascript" src="http://maps.google.com/maps/api/js?v=3&sensor=false&language=en"></script>
+	
+	</head>
+
+<body>
+
+<!-- HOME PAGE -->
+<div id="main" data-role="page">
+	<header data-role="header">
+	</header>
+	
+	<section id="mainnavbar" class="ui-bar-a" data-role="navbar">
+	</section>	
+	
+	<section id="mainContent" class="ui-content" role="main">
+	</section>
+	
+	<div id="mainstudentpopup0" data-role="popup" class="ui-content">
+	</div>
+	<div id="mainstudentpopup1" data-role="popup" class="ui-content">
+	</div>
+	<div id="mainstudentpopup2" data-role="popup" class="ui-content">
+	</div>
+	<footer class="ui-grid-b" data-role="footer">
+	</footer>
+</div> <!-- End of Home page -->
+
+
+<!-- Fitness PAGE -->
+<div id="fitness" data-role="page">
+	<header data-role="header">
+	</header>
+	
+	<section id="fitnessnavbar" class="ui-bar-a" data-role="navbar">
+	</section>
+	<section id="fitnessContent" class="ui-content" role="main">
+		<section id="fitnesscollapse" data-role="collapsible-set" data-inset="true" data-shadow="false">		
+		</section>
+	</section>
+	
+	<div id="fitnessstudentpopup0" data-role="popup" class="ui-content">
+	</div>
+	<div id="fitnessstudentpopup1" data-role="popup" class="ui-content">
+	</div>
+	<div id="fitnessstudentpopup2" data-role="popup" class="ui-content">
+	</div>
+	<footer class="ui-grid-b" data-role="footer">
+	</footer>
+</div> <!-- End of Fitness page -->
+
+
+<!-- Hospital PAGE -->
+<div id="hospital" data-role="page">
+	<header data-role="header">
+	</header>
+	
+	<section id="hospitalnavbar" class="ui-bar-a" data-role="navbar">
+	</section>
+	
+	<section id="hospitalContent" role="main">
+		<section id="hospitalgrid" class="ui-grid-a ui-body">
+			
+			<!-- Titles for main grid blocks -->
+			<h2 class="ui-block-a">Hospital Information</h2>
+			<h2 class="ui-block-b">Departments</h2>
+			
+			<!-- Hospital Info -->
+			<div id="info" class="ui-block-a">
+				<section class="ui-grid-a ui-content">
+					<div id="hname" class="ui-block-a ui-btn"></div>
+					<div id="hcity" class="ui-block-b ui-btn"></div>	
+					<div id="hurl" class="ui-block-a ui-btn"></div>
+					<div id="hphone" class="ui-block-b ui-btn"></div>
+					<div id="hlongitude" class="ui-block-a ui-btn"></div>
+					<div id="hlatitude" class="ui-block-b ui-btn"></div>
+				</section>
+				<a href="#map" class="ui-btn">Go to Map</a>
+			</div>
+			
+			<!-- Department Info -->
+			<div class="ui-block-b">
+				<section id="departmentcollapse" class="ui-body" data-role="collapsible-set" data-inset="true" data-shadow="false">
+				</section>
+			</div>
+		</section>
+	</section>
+	
+	<div id="hospitalstudentpopup0" data-role="popup" class="ui-content">
+	</div>
+	<div id="hospitalstudentpopup1" data-role="popup" class="ui-content">
+	</div>
+	<div id="hospitalstudentpopup2" data-role="popup" class="ui-content">
+	</div>
+	<footer class="ui-grid-b" data-role="footer">
+	</footer>
+</div> <!-- End of Hospital page -->
+
+<!-- Map Page -->
+<div id="map" data-role="page">
+	<header data-role="header">
+	</header>
+	
+	<section id="mapnavbar" class="ui-bar-a" data-role="navbar">
+	</section>
+	
+	<div id="mapContainer" class="ui-content">
+		<div id="map_canvas" style="height:350px; width:420px;"></div>
+		</div>
+	</div>
+	
+	<div id="mapstudentpopup0" data-role="popup" class="ui-content">
+	</div>
+	<div id="mapstudentpopup1" data-role="popup" class="ui-content">
+	</div>
+	<div id="mapstudentpopup2" data-role="popup" class="ui-content">
+	</div>
+	
+</div>
+<!-- End of map page -->
+
+</body>
+</html>

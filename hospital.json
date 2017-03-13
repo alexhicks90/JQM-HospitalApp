@@ -1,0 +1,38 @@
+{
+	"hospital": {
+		
+		"name": "Mt Sinai Hospital",
+		"city": "Toronto",
+		"url": "https://www.mountsinai.on.ca/",
+		"phone": "(416) 596-4200",
+		"latitude": "43.6575",
+		"longitude": "-79.3904",
+		"departments": 
+		[
+			{
+				"name": "Audiology",
+				"description": "We help people with hearing, balance and/or speech disorders by assessing problems and providing non-medical therapy. Our goals are to minimize the effects of a disorder, or, if possible, help prevent them.",
+				"fact1": "A physician's referral is needed before seeing one of our specialists in the Hearing and Balance Unit. ",
+				"fact2": "We also work closely with the Speech-Language Pathology lab, and the Department of Otolaryngology (ear, nose and throat specialists)."
+			},
+			{
+				"name": "Rehab and Wellbeing Centre",
+				"description": "The Rehab and Wellbeing Centre provides leading edge sports medicine by experts who span decades of clinical practice, research and education. The centre offers assessment, treatment, and rehabilitation services to the Greater Toronto Area by providing Active Release Technique, Chiropractic Services, Massage Therapy, Podiatry and Physiotherapy.  ",
+				"fact1": " Our team consists of a core group of specialists who've treated amateur, Olympic, and professional athletes including members of The Toronto Maple Leafs, The Toronto Blue Jays, and The Toronto Raptors",
+				"fact2": "We use both shockwave therapy and laser therapy for podiatry practices."
+			},
+			{
+				"name": "Asthma, COPD and Smoking Cessation Clinic",
+				"description": "The Asthma and Chronic Obstructive Pulmonary Disease (COPD) Education Clinic and Smoking Cessation Clinic helps patients learn what they need to know about asthma and COPD, and the steps to successfully quitting smoking",
+				"fact1": "The clinic is open to all patients who have been diagnosed by their doctor with asthma or COPD, or been instructed to quit smoking.",
+				"fact2": "Usually, a patient will visit the clinic four times per year, although sometimes more and sometimes less. This will depend on the needs of the patient."
+			},
+			{
+				"name": "Occupational Therapy",
+				"description": "Registered occupational therapists provide assessment, treatment, education and consultation to patients with physical, cognitive, mental health and environmental challenges related to their occupations focusing on client-centered care.",
+				"fact1": "To refer a patient for occupational therapy, a signed physician's order is required in the medical chart.",
+				"fact2": "Occupational therapists are governed by a regulating body known as the College of Occupational Therapists of Ontario (COTO)."
+			}	
+		]		
+	}
+}
