@@ -5,19 +5,19 @@
 			"name": "Alex Hicks",
 			"login": "hicksal",
 			"id": "991 414 949",
-			"image": "_css/images/hicksal.png"
+			"image": "css/images/hicksal.png"
 		},
 		{	
 			"name": "Robert Skakic",
 			"login": "skakic",
 			"id": "991 412 136",
-			"image": "_css/images/skakic.png"
+			"image": "css/images/skakic.png"
 		},
 		{	
 			"name": "Darrell Byrne",
 			"login": "byrnedar",
 			"id": "991 411 027",
-			"image": "_css/images/byrnedar.png"
+			"image": "css/images/byrnedar.png"
 		}
 		
 	]
